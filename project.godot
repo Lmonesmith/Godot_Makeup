@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Godot_Makeup_Project"
+run/main_scene="res://control.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
 
